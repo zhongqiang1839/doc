@@ -23,7 +23,7 @@ Vue 2017 现状与展望
 
 -----------------------------------
 
-![Alt text](https://zhongqiang1839.github.io/static/img/doc/IMG_02.JPG)
+![Alt text |800x0](https://zhongqiang1839.github.io/static/img/doc/IMG_02.JPG)
 
 -----------------------------------
 
@@ -109,7 +109,7 @@ Scoped Slots
 
 Coming soon -Vue 2.3 Jojo's bizarre Adventrue
 
-![Alt text](14https://zhongqiang1839.github.io/static/img/doc/IMG_07.png)
+![Alt text](https://zhongqiang1839.github.io/static/img/doc/IMG_07.png)
 
 
 > *2.3 异步组件改进*
