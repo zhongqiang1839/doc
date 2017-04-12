@@ -3,7 +3,8 @@ Vue 2017 现状与展望
 --------------------------
 
 
-![Alt text|800x0](./1491814322591.png)
+![Alt text|800x0](https://zhongqiang1839.github.io/static/img/doc/1491814322591.png)
+
 
 
 
@@ -17,12 +18,12 @@ Vue 2017 现状与展望
 
 -----------------------------------
 
-![Alt text |800x0](./IMG_0244.JPG)
+![Alt text |800x0](https://zhongqiang1839.github.io/static/img/doc/IMG_01.JPG)
 
 
 -----------------------------------
 
-![Alt text](./IMG_0245.JPG)
+![Alt text](https://zhongqiang1839.github.io/static/img/doc/IMG_02.JPG)
 
 -----------------------------------
 
@@ -33,7 +34,7 @@ Vue 2017 现状与展望
 
 
 
-![Alt text|800x0](./IMG_0248.JPG)
+![Alt text|800x0](https://zhongqiang1839.github.io/static/img/doc/IMG_03.JPG)
 
 
 -----------------------------------
@@ -61,7 +62,7 @@ Template --[ parser ] -> AST --[codegen] -> Render Function
 
 抽象语法树（Abstract Syntax Tree）也称为AST语法树，指的是源代码语法所对应的树状结构。也就是说，对于一种具体编程语言下的源代码，通过构建语法树的形式将源代码中的语句映射到树中的每一个节点上。
 
-![Alt text](./1491792874269.png)
+![Alt text](https://zhongqiang1839.github.io/static/img/doc/IMG_04.png)
 
 -----------------------------------
 - 两次编译模式，运行时 or 构建时
@@ -80,7 +81,7 @@ Scoped Slots
 
 - 传递一个可复用的模板片段给子组件
 
-![Alt text](./1491793063223.png)
+![Alt text](https://zhongqiang1839.github.io/static/img/doc/IMG_05.png)
 
 
 -----------------------------------
@@ -104,11 +105,11 @@ Scoped Slots
 > *内置 Chrome Timeline 性能追踪支持*Î
 - vue.config.performance = true
 
-![Alt text](./1491793401971.png)
+![Alt text](https://zhongqiang1839.github.io/static/img/doc/IMG_06.png)
 
 Coming soon -Vue 2.3 Jojo's bizarre Adventrue
 
-![Alt text](./1491793469735.png)
+![Alt text](14https://zhongqiang1839.github.io/static/img/doc/IMG_07.png)
 
 
 > *2.3 异步组件改进*
